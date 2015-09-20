@@ -20,9 +20,8 @@ $ bundle install
 6) start automating the web
 
 
-Install ruby without windows:
+Install Ruby without RVM:
 
-Ignore step 1 and 2 and download and install ruby according to your os' specifications.
+Ignore step 1 and 2 and download and install Ruby according to your os' specifications.
 e.g. by downloading and installing it from https://www.ruby-lang.org/en/downloads/ 
-or by
-$ apt-get install ruby
+or by $ apt-get install ruby
